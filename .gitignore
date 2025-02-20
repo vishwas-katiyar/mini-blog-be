@@ -1,0 +1,40 @@
+# Byte-compiled / cached
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Log files
+logs/
+*.log
+nohup.out
+
+# Database files
+*.sqlite3
+instance/
+
+# Vercel specific
+.vercel/
+
+# Python dependencies
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
